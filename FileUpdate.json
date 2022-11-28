@@ -28,8 +28,8 @@
 
 
 {
-         "name": "VPNgate",
-         "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/vpngatetcp_443.ovpn"
+         "name": "US2-gate",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US2_tcp443.ovpn"
       }
 
 
