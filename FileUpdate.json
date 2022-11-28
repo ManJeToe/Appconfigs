@@ -22,15 +22,15 @@
       },
 
 {
-         "name": "Japan3",
-         "url": "https://raw.githubusercontent.com/HubZau/Hi-Test/main/jp3-vpngate_219.100.37.110_tcp_443.ovpn"
+         "name": "korea",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/korea-tcp1946.ovpn"
       },
 
 
 {
          "name": "US2-gate",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US2_tcp443.ovpn"
-      }
+      },
 
 
 {
