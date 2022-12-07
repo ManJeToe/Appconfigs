@@ -1,6 +1,30 @@
 
 {
    "files":[
+{
+         "name": "SG-DTAC-1",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-DTAC-free%201.ovpn"
+      },
+
+{
+         "name": "SG-DTAC-2",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-DTAC-free%202.ovpn"
+      },
+
+{
+         "name": "SG-DTAC-3",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-DTAC-free%203.ovpn"
+      },
+
+{
+         "name": "SG-DTAC-4",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-DTAC-free%204.ovpn"
+      },
+
+{
+         "name": "SG-DTAC-5",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-DTAC-free%201.ovpn"
+      },
 
 {
          "name": "SG-TRUE-1",
@@ -28,46 +52,6 @@
       },
 
 {
-         "name": "US-TRUE-1",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-TRUE-free%201.ovpn"
-      },
-
-{
-         "name": "US-TRUE-2",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-TRUE-free%202.ovpn"
-      },
-
-{
-         "name": "US-TRUE-3",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-TRUE-free%203.ovpn"
-      },
-
-{
-         "name": "SG-DTAC-1",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-DTAC-free%201.ovpn"
-      },
-
-{
-         "name": "SG-DTAC-2",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-DTAC-free%202.ovpn"
-      },
-
-{
-         "name": "SG-DTAC-3",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-DTAC-free%203.ovpn"
-      },
-
-{
-         "name": "SG-DTAC-4",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-DTAC-free%204.ovpn"
-      },
-
-{
-         "name": "SG-DTAC-5",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-DTAC-free%201.ovpn"
-      },
-
-{
          "name": "US-DTAC-1",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US2_tcp443.ovpn"
       },
@@ -81,6 +65,22 @@
 {
          "name": "US-DTAC-3",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-DTAC-free%203.ovpn"
+      },
+
+
+{
+         "name": "US-TRUE-1",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-TRUE-free%201.ovpn"
+      },
+
+{
+         "name": "US-TRUE-2",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-TRUE-free%202.ovpn"
+      },
+
+{
+         "name": "US-TRUE-3",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-TRUE-free%203.ovpn"
       }
 
 
