@@ -2,6 +2,58 @@
    "files": [
 
 {
+         "name": "SG1-AsiaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG1-Asia.ovpn"
+      },
+
+{
+         "name": "SG2-AsiaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG2-Asia.ovpn"
+      },
+
+{
+         "name": "SG3-AsiaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG3-Asia.ovpn"
+      },
+
+{
+         "name": "SG4-AsiaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG4-Asia.ovpn"
+      },
+
+{
+         "name": "SG5-AsiaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG5-Asia.ovpn"
+      },
+
+{
+         "name": "SG6-AsiaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG6-Asia.ovpn"
+      },
+
+
+{
+         "name": "SG7-AsiaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG7-Asia.ovpn"
+      },
+
+{
+         "name": "SG8-AsiaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG8-Asia.ovpn"
+      },
+
+{
+         "name": "SG9-AsiaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG9-Asia.ovpn"
+      },
+
+{
+         "name": "SG10-AsiaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG10-Asia.ovpn"
+      },
+
+
+{
          "name": "AUTO-SELECT",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/iprandom.ovpn"
       },
@@ -90,8 +142,8 @@
 
 
    ],
-"message":"🚀 Update config version - 12 \📌What's new 🔥 \n• Added new Singapore server 2🇸🇬",
+"message":"🚀 Update config version - 13 👈",
    "title":"Do you want to update?",
-   "version": 12
+   "version": 13
 }
 
