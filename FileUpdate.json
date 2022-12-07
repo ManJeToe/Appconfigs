@@ -2,6 +2,11 @@
    "files": [
 
 {
+         "name": "Auto-Select",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/iprandom.ovpn"
+      },
+
+{
          "name": "SG-DTAC-1",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-DTAC-1.ovpn"
       },
@@ -85,8 +90,8 @@
 
 
    ],
-"message":"🚀 Update config version - 11 \📌What's new 🔥 \n• Added new Singapore server 2🇸🇬",
+"message":"🚀 Update config version - 12 \📌What's new 🔥 \n• Added new Singapore server 2🇸🇬",
    "title":"Do you want to update?",
-   "version": 11
+   "version": 12
 }
 
