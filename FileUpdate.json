@@ -52,6 +52,42 @@
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG10-Asia.ovpn"
       },
 
+{
+         "name": "US1-UsaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US1-TCP.ovpn"
+      },
+
+{
+         "name": "US2-UsaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US2-TCP.ovpn"
+      },
+
+{
+         "name": "US3-UsaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US3-TCP.ovpn"
+      },
+
+{
+         "name": "US4-UsaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US4-TCP.ovpn"
+      },
+
+{
+         "name": "US5-UsaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US5-TCP.ovpn"
+      },
+
+{
+         "name": "US6-UsaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US6-TCP.ovpn"
+      },
+
+
+{
+         "name": "US7-UsaVPN",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US7-TCP.ovpn"
+      },
+
 
 {
          "name": "AUTO-SELECT",
@@ -142,8 +178,8 @@
 
 
    ],
-"message":"🚀 Update config version - 13 👈",
+"message":"🚀 Update config version - 14 👈",
    "title":"Do you want to update?",
-   "version": 13
+   "version": 14
 }
 
