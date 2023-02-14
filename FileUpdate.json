@@ -2,6 +2,47 @@
    "files": [
 
 {
+         "name": "Free1",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free1.ovpn"
+      },
+
+{
+         "name": "Free2",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free2.ovpn"
+      },
+
+{
+         "name": "Free3",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free3.ovpn"
+      },
+
+{
+         "name": "Free4",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free4.ovpn"
+      },
+
+{
+         "name": "Free5",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free5.ovpn"
+      },
+
+{
+         "name": "Free6",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free6.ovpn"
+      },
+
+
+{
+         "name": "Free7",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free7.ovpn"
+      },
+
+{
+         "name": "Free8",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free8.ovpn"
+      },
+
+{
          "name": "SG1-ServerAsia",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG1-Asia.ovpn"
       },
