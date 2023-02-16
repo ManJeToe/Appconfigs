@@ -43,53 +43,53 @@
       },
 
 {
-         "name": "JP1",
+         "name": "JP1-DTAC+TRUE",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP1-DTAC%2BTRUE.ovpn"
       },
 
 {
-         "name": "JP2",
+         "name": "JP2-DTAC+TRUE",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP2-DTAC%2BTRUE.ovpn"
       },
 
 {
-         "name": "JP3",
+         "name": "JP3-DTAC+TRUE",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP3-DTAC%2BTRUE.ovpn"
       },
 
 {
-         "name": "JP4",
+         "name": "JP4-DTAC+TRUE",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP4-DTAC%2BTRUE.ovpn"
       },
 
 {
-         "name": "JP5",
+         "name": "JP5-DTAC+TRUE",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP5-DTAC%2BTRUE.ovpn"
       },
 
 {
-         "name": "JP6",
+         "name": "JP6-DTAC+TRUE",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP6-DTAC%2BTRUE.ovpn"
       },
 
 
 {
-         "name": "JP7",
+         "name": "JP7-DTAC+TRUE",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP7-DTAC%2BTRUE.ovpn"
       },
 
 {
-         "name": "JP8",
+         "name": "JP8-DTAC+TRUE",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP8-DTAC%2BTRUE.ovpn"
       },
 
 {
-         "name": "JP9",
+         "name": "JP9-DTAC+TRUE",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP9-DTAC%2BTRUE.ovpn"
       },
 
 {
-         "name": "JP10",
+         "name": "JP10-DTAC+TRUE",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP10-DTAC%2BTRUE.ovpn"
       },
 
@@ -187,8 +187,8 @@
       }
 
    ],
-"message":"🚀 Update config version - 20 👈",
+"message":"🚀 Update config version - 21 👈",
    "title":"Do you want to update?",
-   "version": 20
+   "version": 21
 }
 
