@@ -2,46 +2,6 @@
    "files": [
 
 {
-         "name": "Free1",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free1.ovpn"
-      },
-
-{
-         "name": "Free2",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free2.ovpn"
-      },
-
-{
-         "name": "Free3",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free3.ovpn"
-      },
-
-{
-         "name": "Free4",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free4.ovpn"
-      },
-
-{
-         "name": "Free5",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free5.ovpn"
-      },
-
-{
-         "name": "Free6",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free6.ovpn"
-      },
-
-
-{
-         "name": "Free7",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free7.ovpn"
-      },
-
-{
-         "name": "Free8",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free8.ovpn"
-      },
-{
          "name": "JP1-DTAC+TRUE",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP1-DTAC%2BTRUE.ovpn"
       },
@@ -192,6 +152,46 @@
          "name": "KR10-DTAC+TRUE",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/KR10-DTAC%2BTRUE.ovpn"
       },
+{
+         "name": "Free1",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free1.ovpn"
+      },
+
+{
+         "name": "Free2",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free2.ovpn"
+      },
+
+{
+         "name": "Free3",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free3.ovpn"
+      },
+
+{
+         "name": "Free4",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free4.ovpn"
+      },
+
+{
+         "name": "Free5",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free5.ovpn"
+      },
+
+{
+         "name": "Free6",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free6.ovpn"
+      },
+
+
+{
+         "name": "Free7",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free7.ovpn"
+      },
+
+{
+         "name": "Free8",
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free8.ovpn"
+      },
 
 {
          "name": "AUTO-SELECT",
@@ -199,8 +199,8 @@
       }
 
    ],
-"message":"🚀 Update config version - 21 👈",
+"message":"🚀 ဆာဗာဖိုင္အသစ္အပ္ဒိတ္တင္ေပးပါ✔Update config version - 22 👈",
    "title":"Do you want to update?",
-   "version": 21
+   "version": 22
 }
 
