@@ -12,6 +12,86 @@
 
 {
 
+         "name": "SG-AIS+PLAY-01",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-AISPLAY-01.ovpn"
+
+      },
+
+{
+
+         "name": "SG-AIS+PLAY-02",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-AISPLAY-02.ovpn"
+
+      },
+
+{
+
+         "name": "SG-AIS+PLAY-03",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-AISPLAY-03.ovpn"
+
+      },
+
+{
+
+         "name": "SG-AIS+PLAY-04",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-AISPLAY-04.ovpn"
+
+      },
+
+{
+
+         "name": "SG-AIS+PLAY-05",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-AISPLAY-05.ovpn"
+
+      },
+
+{
+
+         "name": "SG-DTAC+TRUE-01",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Singapore_Core_10.ovpn"
+
+      },
+
+{
+
+         "name": "SG-DTAC+TRUE-02",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Singapore_Core_4.ovpn"
+
+      },
+
+{
+
+         "name": "SG-DTAC+TRUE-03",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Singapore_Core_5.ovpn"
+
+      },
+
+{
+
+         "name": "SG-DTAC+TRUE-04",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Singapore_Core_6.ovpn"
+
+      },
+
+{
+
+         "name": "SG-DTAC+TRUE-05",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Singapore_Racer_2.ovpn"
+
+      },
+
+{
+
          "name": "US-DTAC+TRUE-01",
 
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/United_States_1.ovpn"
@@ -36,10 +116,10 @@
 
    ],
 
-"message":"🚀 ဆာဗာဖိုင္အသစ္အပ္ဒိတ္တင္ေပးပါ✔Update config version - 23 👈",
+"message":"🚀 ဆာဗာဖိုင္အသစ္အပ္ဒိတ္တင္ေပးပါ✔Update config version - 24 👈",
 
    "title":"Do you want to update?",
 
-   "version": 23
+   "version": 24
 
 }
