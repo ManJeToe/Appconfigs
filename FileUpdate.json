@@ -1,206 +1,45 @@
 {
+
    "files": [
 
 {
-         "name": "JP1-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP1-DTAC%2BTRUE.ovpn"
+
+         "name": "TH-DTAC+TRUE",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Thailand_Geek.ovpn"
+
       },
 
 {
-         "name": "JP2-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP2-DTAC%2BTRUE.ovpn"
+
+         "name": "US-DTAC+TRUE-01",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/United_States_1.ovpn"
+
       },
 
 {
-         "name": "JP3-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP3-DTAC%2BTRUE.ovpn"
+
+         "name": "US-DTAC+TRUE-02",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/United_States_2.ovpn"
+
       },
 
 {
-         "name": "JP4-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP4-DTAC%2BTRUE.ovpn"
-      },
 
-{
-         "name": "JP5-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP5-DTAC%2BTRUE.ovpn"
-      },
+         "name": "US-DTAC+TRUE-03",
 
-{
-         "name": "JP6-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP6-DTAC%2BTRUE.ovpn"
-      },
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/United_States_3.ovpn"
 
-
-{
-         "name": "JP7-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP7-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "JP8-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP8-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "JP9-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP9-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "JP10-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP10-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "JP11-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP11-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "JP12-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP12-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "JP13-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP13-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "JP14-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP14-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "JP15-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP15-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "JP16-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP16-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "JP17-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP17-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "JP18-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP18-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "JP19-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP19-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "JP20-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/JP20-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "KR1-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/KR1-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "KR2-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/KR2-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "KR3-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/KR3-DTAC%2BTRUE.ovpn"
-      },
-
-
-{
-         "name": "KR4-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/KR4-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "KR5-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/KR5-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "KR6-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/KR6-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "KR7-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/KR7-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "KR8-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/KR8-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "KR9-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/KR9-DTAC%2BTRUE.ovpn"
-      },
-
-{
-         "name": "KR10-DTAC+TRUE",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/KR10-DTAC%2BTRUE.ovpn"
-      },
-{
-         "name": "Free1",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free1.ovpn"
-      },
-
-{
-         "name": "Free2",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free2.ovpn"
-      },
-
-{
-         "name": "Free3",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free3.ovpn"
-      },
-
-{
-         "name": "Free4",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free4.ovpn"
-      },
-
-{
-         "name": "Free5",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free5.ovpn"
-      },
-
-{
-         "name": "Free6",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free6.ovpn"
-      },
-
-
-{
-         "name": "Free7",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free7.ovpn"
-      },
-
-{
-         "name": "Free8",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Free8.ovpn"
-      },
-
-{
-         "name": "AUTO-SELECT",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/iprandom.ovpn"
       }
 
    ],
-"message":"🚀 ဆာဗာဖိုင္အသစ္အပ္ဒိတ္တင္ေပးပါ✔Update config version - 22 👈",
-   "title":"Do you want to update?",
-   "version": 22
-}
 
+"message":"🚀 ဆာဗာဖိုင္အသစ္အပ္ဒိတ္တင္ေပးပါ✔Update config version - 23 👈",
+
+   "title":"Do you want to update?",
+
+   "version": 23
+
+}
