@@ -92,34 +92,98 @@
 
 {
 
-         "name": "US-DTAC+TRUE-01",
+         "name": "TH-AIS+PLAY",
 
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/United_States_1.ovpn"
-
-      },
-
-{
-
-         "name": "US-DTAC+TRUE-02",
-
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/United_States_2.ovpn"
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-AIS-PLAY.ovpn"
 
       },
 
 {
 
-         "name": "US-DTAC+TRUE-03",
+         "name": "TH-DTAC+TRUE",
 
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/United_States_3.ovpn"
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-DTAC-TRUE.ovpn"
+
+      },
+
+{
+
+         "name": "US-AIS+PLAY-01",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-AIS-PLAY-01.ovpn"
+
+      },
+
+{
+
+         "name": "US-AIS+PLAY-02",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-AIS-PLAY-02.ovpn"
+
+      },
+
+{
+
+         "name": "US-AIS+PLAY-03",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-AIS-PLAY-03.ovpn"
+
+      },
+
+{
+
+         "name": "US-DTAC+NOPRO-01",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-DTAC-NOPRO-01.ovpn"
+
+      },
+
+{
+
+         "name": "US-DTAC+NOPRO-02",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-DTAC-NOPRO-02.ovpn"
+
+      },
+
+{
+
+         "name": "US-DTAC+NOPRO-03",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-DTAC-NOPRO-03.ovpn"
+
+      },
+
+{
+
+         "name": "US-TRUE+NOPRO-01",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-TRUE-NOPRO-01.ovpn"
+
+      },
+
+{
+
+         "name": "US-TRUE+NOPRO-02",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-TRUE-NOPRO-02.ovpn"
+
+      },
+
+{
+
+         "name": "US-TRUE+NOPRO-03",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-TRUE-NOPRO-03.ovpn"
 
       }
 
    ],
 
-"message":"🚀 ဆာဗာဖိုင္အသစ္အပ္ဒိတ္တင္ေပးပါ✔Update config version - 24 👈",
+"message":"🚀 ဆာဗာဖိုင္အသစ္အပ္ဒိတ္တင္ေပးပါ✔Update config version - 25 👈",
 
    "title":"Do you want to update?",
 
-   "version": 24
+   "version": 25
 
 }
