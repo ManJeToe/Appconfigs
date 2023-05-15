@@ -4,9 +4,17 @@
 
 {
 
+         "name": "TH-AIS+PLAY-01",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-AIS-PLAY-01.ovpn"
+
+      },
+
+{
+
          "name": "TH-DTAC+NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Thailand_Geek.ovpn"
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-DTAC-NOPRO-01.ovpn"
 
       },
 
@@ -14,15 +22,7 @@
 
          "name": "TH-TRUE+NOPRO-01",
 
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Thailand_Geek.ovpn"
-
-      },
-
-{
-
-         "name": "TH-AIS+PLAY-01",
-
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/Thailand_Geek.ovpn"
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-TRUE-NOPRO-01.ovpn"
 
       },
 
@@ -188,10 +188,10 @@
 
    ],
 
-"message":"🚀 ဆာဗာဖိုင်အပ်ဒိတ်လုပပါ✔Update config version - 26 👈",
+"message":"🚀 ဆာဗာဖိုင်အပ်ဒိတ်လုပ်ပါ✔Update config version - 27 👈",
 
    "title":"Do you want to update?",
 
-   "version": 26
+   "version": 27
 
 }
