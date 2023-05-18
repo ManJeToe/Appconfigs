@@ -4,6 +4,86 @@
 
 {
 
+         "name": "AIS-PLAY-01",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/AIS_PLAY_1.ovpn"
+
+      },
+
+{
+
+         "name": "AIS-PLAY-02",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/AIS_PLAY_2.ovpn"
+
+      },
+
+{
+
+         "name": "AIS-PLAY-03",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/AIS_PLAY_3.ovpn"
+
+      },
+
+{
+
+         "name": "AIS-PLAY-04",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/AIS_PLAY_4.ovpn"
+
+      },
+
+{
+
+         "name": "AIS-PLAY-05",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/AIS_PLAY_5.ovpn"
+
+      },
+
+{
+
+         "name": "DTAC-TRUE-01",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/DTAC_TRUE_1.ovpn"
+
+      },
+
+{
+
+         "name": "DTAC-TRUE-02",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/DTAC_TRUE_2.ovpn"
+
+      },
+
+{
+
+         "name": "DTAC-TRUE-03",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/DTAC_TRUE_3.ovpn"
+
+      },
+
+{
+
+         "name": "DTAC-TRUE-04",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/DTAC_TRUE_4.ovpn"
+
+      },
+
+{
+
+         "name": "DTAC-TRUE-05",
+
+         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/DTAC_TRUE_5.ovpn"
+
+      },
+
+{
+
          "name": "TH-AIS+PLAY-01",
 
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-AIS-PLAY-01.ovpn"
@@ -188,10 +268,10 @@
 
    ],
 
-"message":"🚀 ဆာဗာဖိုင်အပ်ဒိတ်လုပ်ပါ✔Update config version - 27 👈",
+"message":"🚀 ဆာဗာဖိုင်အပ်ဒိတ်လုပ်ပါ✔Update config version - 28 👈",
 
    "title":"Do you want to update?",
 
-   "version": 27
+   "version": 28
 
 }
