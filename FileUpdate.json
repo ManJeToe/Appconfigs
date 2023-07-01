@@ -2,21 +2,6 @@
    "files": [
 
 {
-         "name": "SG-AIS-PLAY-01",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-AIS-PLAY-01.ovpn"
-      },
-
-{
-         "name": "SG-AIS-PLAY-02",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-AIS-PLAY-02.ovpn"
-      },
-
-{
-         "name": "SG-AIS-PLAY-03",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/SG-AIS-PLAY-03.ovpn"
-      },
-
-{
          "name": "TH-AIS-PLAY-01",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-AIS-PLAY-01.ovpn"
       },
@@ -34,22 +19,6 @@
 {
          "name": "TH-AIS-PLAY-04",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-AIS-PLAY-04.ovpn"
-      },
-
-{
-         "name": "TH-AIS-PLAY-05",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-AIS-PLAY-05.ovpn"
-      },
-
-{
-         "name": "TH-AIS-PLAY-06",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-AIS-PLAY-06.ovpn"
-      },
-
-
-{
-         "name": "TH-AIS-PLAY-07",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-AIS-PLAY-07.ovpn"
       },
 
 
@@ -74,23 +43,6 @@
       },
 
 {
-         "name": "TH-DTAC-NOPRO-05",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-DTAC-NOPRO-05.ovpn"
-      },
-
-{
-         "name": "TH-DTAC-NOPRO-06",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-DTAC-NOPRO-06.ovpn"
-      },
-
-
-{
-         "name": "TH-DTAC-NOPRO-07",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-DTAC-NOPRO-07.ovpn"
-      },
-
-
-{
          "name": "TH-TRUE-NOPRO-01",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-TRUE-NOPRO-01.ovpn"
       },
@@ -108,58 +60,10 @@
 {
          "name": "TH-TRUE-NOPRO-04",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-TRUE-NOPRO-04.ovpn"
-      },
-
-{
-         "name": "TH-TRUE-NOPRO-05",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-TRUE-NOPRO-05.ovpn"
-      },
-
-{
-         "name": "TH-TRUE-NOPRO-06",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-TRUE-NOPRO-06.ovpn"
-      },
-
-{
-
-         "name": "TH-TRUE-NOPRO-07",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-TRUE-NOPRO-07.ovpn"
-      },
-
-
-{
-         "name": "US-DTAC-NOPRO-01",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-DTAC-NOPRO-01.ovpn"
-      },
-
-{
-         "name": "US-DTAC-NOPRO-02",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-DTAC-NOPRO-02.ovpn"
-      },
-
-{
-         "name": "US-DTAC-NOPRO-03",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-DTAC-NOPRO-03.ovpn"
-      },
-
-
-{
-         "name": "US-TRUE-NOPRO-01",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-TRUE-NOPRO-01.ovpn"
-      },
-
-{
-         "name": "US-TRUE-NOPRO-02",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-TRUE-NOPRO-02.ovpn"
-      },
-
-{
-         "name": "US-TRUE-NOPRO-03",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/US-TRUE-NOPRO-03.ovpn"
       }
 
    ],
-"message":"🚀 ဆာဗာဖိုင်အပ်ဒိတ်လုပ်ပါဗျာ့✔Ais True Dtac Freenet😊 Config-Version-33 ",
+"message":"🚀 ဆာဗာဖိုင်အပ်ဒိတ်လုပ်ပါဗျာ့✔Ais True Dtac Freenet😊 Config-Version-34 ",
    "title":"Do you want to update?",
-   "version": 33
+   "version": 34
 }
