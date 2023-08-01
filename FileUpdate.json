@@ -45,71 +45,11 @@
 {
          "name": "TH-AIS.03",
          "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-AIS.03.ovpn"
-      }, 
-   
-{
-         "name": "TH-AIS-PLAY-01",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-AIS-PLAY-01.ovpn"
-      },
-
-{
-         "name": "TH-AIS-PLAY-02",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-AIS-PLAY-02.ovpn"
-      },
-
-{
-         "name": "TH-AIS-PLAY-03",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-AIS-PLAY-03.ovpn"
-      },
-
-{
-         "name": "TH-AIS-PLAY-04",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-AIS-PLAY-04.ovpn"
-      },
-
-
-{
-         "name": "TH-DTAC-NOPRO-01",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-DTAC-NOPRO-01.ovpn"
-      },
-
-{
-         "name": "TH-DTAC-NOPRO-02",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-DTAC-NOPRO-02.ovpn"
-      },
-
-{
-         "name": "TH-DTAC-NOPRO-03",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-DTAC-NOPRO-03.ovpn"
-      },
-
-{
-         "name": "TH-DTAC-NOPRO-04",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-DTAC-NOPRO-04.ovpn"
-      },
-
-{
-         "name": "TH-TRUE-NOPRO-01",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-TRUE-NOPRO-01.ovpn"
-      },
-
-{
-         "name": "TH-TRUE-NOPRO-02",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-TRUE-NOPRO-02.ovpn"
-      },
-
-{
-         "name": "TH-TRUE-NOPRO-03",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-TRUE-NOPRO-03.ovpn"
-      },
-
-{
-         "name": "TH-TRUE-NOPRO-04",
-         "url": "https://raw.githubusercontent.com/ManJeToe/Appconfigs/main/TH-TRUE-NOPRO-04.ovpn"
       }
 
    ],
-"message":"🚀လိုင္းေကာင္းတဲ့ဆာဗာဖိုင်အပ်ဒိတ်လုပ်ပါဗျာ့✔Ais True Dtac Freenet👍Good Speed😊 Config-Version-36👈",
+"message":"🚀လိုင္းေကာင္းတဲ့ဆာဗာအသစ္ရယူရန္UPDATEနိပ့္ေပးပါဗ်
+   ✔Ais True Dtac Freenet👍Good Speed😊 Config-Version-37👈",
    "title":"Do you want to update?",
-   "version": 36
+   "version": 37
 }
